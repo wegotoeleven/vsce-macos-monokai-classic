@@ -1,0 +1,26 @@
+{
+    "name": "macos-monokai",
+    "displayName": "macOS Monokai",
+    "description": "Light and Dark modes to match macOS, with Monokai syntax colours",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "macOS Monokai Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/macOS Monokai Dark-color-theme.json"
+            },
+            {
+                "label": "macOS Monokai Light",
+                "uiTheme": "vs",
+                "path": "./themes/macOS Monokai Light-color-theme.json"
+            }
+        ]
+    }
+}
