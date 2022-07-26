@@ -5,19 +5,10 @@
 
 ## Installation
 
-- To use this extension with Visual Studio Code copy it into the `<user home>/.vscode/extensions` folder and restart Code.
+- Follow Markplace guidelines, or
+- Launch the command palette, then run the following:
 
-## Override this theme
-
-To quickly test something, you can also override this (or any other) theme in your personal config file. Please follow the guide in the color theme documentation.
-
-## How to contribute
-
-1. Fork this project, if required
-2. Create a new branch (`git checkout -b myNewBranch`)
-3. Make changes, and commit (`git commit -am "myChanges"`)
-4. Push to the new branch (`git push origin myNewBranch`)
-5. Create new pull request
+`ext install wegotoeleven.macos-monokai`
 
 ## Credit
 
