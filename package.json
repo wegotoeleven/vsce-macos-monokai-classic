@@ -6,8 +6,17 @@
     "engines": {
         "vscode": "^1.52.0"
     },
+    "publisher": "wegotoeleven",
+    "author": {
+        "name": "Stephen Warneford-Bygrave"
+    },
     "categories": [
         "Themes"
+    ],
+    "license": "Creative Commons",
+    "keywords": [
+        "monokai",
+        "macOS"
     ],
     "contributes": {
         "themes": [
