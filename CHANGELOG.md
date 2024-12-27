@@ -13,3 +13,6 @@ All notable changes to the macOS Monokai Classic (aka "macos-monokai") extension
 
 ## [1.1.1] - 2024-12-27
 - Added icon
+
+## [1.1.2] - 2024-12-27
+- Fixed a couple of colours
