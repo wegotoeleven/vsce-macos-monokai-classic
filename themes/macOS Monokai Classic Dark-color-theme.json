@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "macOS Monokai Dark",
+    "name": "macOS Monokai Classic Dark",
     "colors": {
         "editor.background": "#1E1E1E",
         "editor.foreground": "#D4D4D4",

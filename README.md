@@ -1,7 +1,7 @@
 # macOS Monokai Classic VSCode theme
 
-<img src="https://github.com/wegotoeleven/macos_monokai_vscode_theme/blob/main/images/macos-monokai-dark.png?raw=true" width="500">
-<img src="https://github.com/wegotoeleven/macos_monokai_vscode_theme/blob/main/images/macos-monokai-light.png?raw=true" width="500">
+<img src="https://github.com/wegotoeleven/macos_monokai_vscode_theme/blob/main/images/macos-monokai-classic-dark.png?raw=true" width="500">
+<img src="https://github.com/wegotoeleven/macos_monokai_vscode_theme/blob/main/images/macos-monokai-classic-light.png?raw=true" width="500">
 
 ## Installation
 

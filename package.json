@@ -1,8 +1,9 @@
 {
-    "name": "macos-monokai-classic",
+    "name": "macos-monokai",
     "displayName": "macOS Monokai Classic",
+    "icon": "images/macos-monokai-classic-icon.png",
     "description": "Theme with light and dark modes to match macOS, with Monokai Classic syntax colours",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "engines": {
         "vscode": "^1.96.0"
     },
