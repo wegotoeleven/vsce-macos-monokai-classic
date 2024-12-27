@@ -1,10 +1,10 @@
 {
-    "name": "macos-monokai",
-    "displayName": "macOS Monokai",
-    "description": "Light and Dark modes to match macOS, with Monokai syntax colours",
-    "version": "1.0.1",
+    "name": "macos-monokai-classic",
+    "displayName": "macOS Monokai Classic",
+    "description": "Theme with light and dark modes to match macOS, with Monokai Classic syntax colours",
+    "version": "1.1.0",
     "engines": {
-        "vscode": "^1.52.0"
+        "vscode": "^1.96.0"
     },
     "publisher": "wegotoeleven",
     "author": {
@@ -18,17 +18,21 @@
         "monokai",
         "macOS"
     ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/wegotoeleven/vsce-macos-monokai-classic.git"
+    },
     "contributes": {
         "themes": [
             {
-                "label": "macOS Monokai Dark",
+                "label": "macOS Monokai Classic Dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/macOS Monokai Dark-color-theme.json"
+                "path": "./themes/macOS Monokai Classic Dark-color-theme.json"
             },
             {
-                "label": "macOS Monokai Light",
+                "label": "macOS Monokai Classic Light",
                 "uiTheme": "vs",
-                "path": "./themes/macOS Monokai Light-color-theme.json"
+                "path": "./themes/macOS Monokai Classic Light-color-theme.json"
             }
         ]
     }
